@@ -48,7 +48,7 @@ Each section below corresponds to a **"Bloc de Compétences"** required for the 
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **AT&T Spam Detector** | **NLP / Deep Learning.** Built a spam classification model using TensorFlow/Keras to filter messages automatically. | PyTorch, NLP, Embedding Layers | [📂 View Repository](https://github.com/enavarrento/dsfs-4-Deep-Learning-project-ATT) |
+| **AT&T Spam Detector** | **NLP / Deep Learning.** Built a spam classification model to filter messages automatically. | PyTorch, NLP, Embedding Layers | [📂 View Repository](https://github.com/enavarrento/dsfs-4-Deep-Learning-project-ATT) |
 
 ---
 
