@@ -17,7 +17,7 @@ Each section below corresponds to a **"Bloc de Compétences"** required for the 
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Kayak Project** | **Data Collection & Management.** Created a data pipeline to scrape travel information, store it in a Data Lake (S3), and expose it via a Data Warehouse (SQL) for analysis. | Python, Scrapy/BeautifulSoup, Boto3 (AWS S3), SQL | [📂 View Repository](https://github.com/enavarrento/dsfs-1-Data-Collection-Kayak) |
+| **Kayak Project** | **Data Collection & Management.** Created a data pipeline to scrape travel information, store it in a Data Lake (S3), and expose it via a Data Warehouse (SQL) for analysis. | Python, Selenium/BeautifulSoup, Boto3 (AWS S3), SQL | [📂 View Repository](https://github.com/enavarrento/dsfs-1-Data-Collection-Kayak) |
 
 ---
 
