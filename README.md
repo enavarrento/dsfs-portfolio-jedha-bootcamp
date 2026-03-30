@@ -66,4 +66,4 @@ Each section below corresponds to a **"Bloc de Compétences"** required for the 
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Final Capstone** | **Fullstack Data Science.** End-to-end project led from conception to deployment, solving a real-world business problem. | Full Stack | [📂 View Repository](https://github.com/enavarrento/dsfs-6-Final-Project) |
+| **Final Capstone** | **Fullstack Data Science.** End-to-end project led from conception to deployment, solving a real-world business problem. | Full Stack | [📂 View Repository](https://github.com/Sheikoh/REnergies_efficiency_prediction) |
