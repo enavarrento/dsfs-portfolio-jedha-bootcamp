@@ -17,7 +17,7 @@ Each section below corresponds to a **"Bloc de Compétences"** required for the 
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Kayak Project** | **Data Collection & Management.** Created a data pipeline to scrape travel information, store it in a Data Lake (S3), and expose it via a Data Warehouse (SQL) for analysis. | Python, Selenium/BeautifulSoup, Boto3 (AWS S3), SQL | [📂 View Repository](https://github.com/enavarrento/dsfs-1-Data-Collection-Kayak) |
+| **Kayak Project** | **Data Collection & Management.** Built an end-to-end Data Engineering pipeline (ETL) to scrape and combine 7-day weather forecasts with hotel data, storing it in an AWS S3 Data Lake and exposing it via an Amazon RDS (PostgreSQL) Data Warehouse. | Python (Selenium/BS4), APIs, AWS (S3, RDS), SQL | [📂 View Repository](https://github.com/enavarrento/dsfs-1-Data-Collection-Kayak) |
 
 ---
 
@@ -27,7 +27,7 @@ Each section below corresponds to a **"Bloc de Compétences"** required for the 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Tinder Project** | **Exploratory Data Analysis.** Analyzed user engagement data to uncover usage patterns and improved matching recommendations. | Pandas, Seaborn, Plotly, Scipy | [📂 View Repository](https://github.com/enavarrento/dsfs-2-EDA-Tinder) |
-| **Steam Project** | **Big Data Analysis.** Processed large-scale gaming datasets to understand player retention and reviews. | PySpark, Databricks/Colab | [📂 View Repository](https://github.com/enavarrento/dsfs-2-Big-Data-Steam) |
+| **Steam Project** | **Big Data Analysis.** Processed large-scale, semi-structured gaming datasets (60k+ games) to identify market trends, genre profitability, and success factors for a major publisher. | PySpark, Databricks, AWS S3 | [📂 View Repository](https://github.com/enavarrento/dsfs-2-Big-Data-Steam) |
 
 ---
 
@@ -38,8 +38,7 @@ Each section below corresponds to a **"Bloc de Compétences"** required for the 
 | :--- | :--- | :--- | :--- |
 | **Walmart Sales** | **Regression.** Predicted weekly sales for Walmart stores using historical data and economic indicators. | Scikit-Learn, Linear Regression, Ridge/Lasso | [📂 View Repository](https://github.com/enavarrento/dsfs-3-Machine-Learning-Walmart) |
 | **Conversion Rate** | **Classification.** Predicted user conversion rates to optimize marketing campaigns for a newsletter. | Scikit-Learn, Random Forest, F1-Score opt. | [📂 View Repository](https://github.com/enavarrento/dsfs-3-Machine-Learning-Conversion-Rate) |
-| **Uber Pickups** | **Clustering.** Analyzed Uber pickup locations in NYC to recommend optimal waiting zones for drivers. | Scikit-Learn, K-Means, DBSCAN, Folium | [📂 View Repository](https://github.com/enavarrento/dsfs-3-Machine-Learning-Uber-Pickups) |
-| *(Optional)* | *North Face E-commerce project (Selected 3 of 4)* | | |
+| **Uber Pickups** | **Clustering.** Unsupervised Machine Learning using temporal and geospatial data to identify and map optimal waiting "Hot-Zones" for Uber drivers in NYC. | Scikit-Learn (K-Means, DBSCAN), Plotly/Folium | [📂 View Repository](https://github.com/enavarrento/dsfs-3-Machine-Learning-Uber-Pickups) |
 
 ---
 
@@ -48,7 +47,7 @@ Each section below corresponds to a **"Bloc de Compétences"** required for the 
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **AT&T Spam Detector** | **NLP / Deep Learning.** Built a spam classification model to filter messages automatically. | PyTorch, NLP, Embedding Layers | [📂 View Repository](https://github.com/enavarrento/dsfs-4-Deep-Learning-project-ATT) |
+| **AT&T Spam Detector** | **NLP / Deep Learning.** Developed a highly precise automated SMS spam filter using Transfer Learning to analyze text context without censoring legitimate messages. | Python, NLP, Transfer Learning (DistilBERT), Intel XPU | [📂 View Repository](https://github.com/enavarrento/dsfs-4-Deep-Learning-project-ATT) |
 
 ---
 
@@ -57,7 +56,7 @@ Each section below corresponds to a **"Bloc de Compétences"** required for the 
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **GetAround** | **Deployment.** Deployed a machine learning model via an API (FastAPI) and a web dashboard (Streamlit) in a Dockerized environment. | Docker, FastAPI, Streamlit, HuggingFace | [📂 View Repository](https://github.com/enavarrento/dsfs-5-Deployment-project-Get-Around) |
+| **GetAround** | **Deployment & MLOps.** Built and deployed a Minimum Viable Product (MVP) featuring a predictive pricing API and an interactive business dashboard to optimize rental delay thresholds. | Machine Learning, MLflow, FastAPI, Streamlit, Docker, Hugging Face | [📂 View Repository](https://github.com/enavarrento/dsfs-5-Deployment-project-Get-Around) |
 
 ---
 
